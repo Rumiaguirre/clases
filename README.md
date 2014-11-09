@@ -1,5 +1,5 @@
 Clases particulares
 ===================
 
-Repositorio público con código utilizado en clases particulares. 
+Repositorio público con código utilizado en las clases particulares. 
 
