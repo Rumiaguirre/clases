@@ -1,0 +1,12 @@
+<VirtualHost clase_1.dev:80>
+	DocumentRoot "path\to\laravel\public"
+	ServerName clase_1.dev
+	<Directory "path\to\laravel\public">
+		Options Indexes FollowSymLinks
+		Order allow,deny
+		Allow from all
+		Options All
+   		AllowOverride All
+   		Require all granted
+   	</Directory>
+</VirtualHost>
